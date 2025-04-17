@@ -1,0 +1,3 @@
+files:
+  - source: ChineseSimplified.json
+    translation: '%language%.json'
