@@ -1,1 +1,12 @@
-{}
+{
+    "Language": "Language",
+    "NekoVerifiy": "NekoVerifiy",
+    "GeneralSettings": "GeneralSettings",
+    "SupportDutys": "SupportDutys",
+    "Debug": "Debug",
+    "NekoVerifiy-Refresh": "Refresh",
+    "NekoVerifiy-MachineCode": "MachineCode",
+    "NekoVerifiy-AccountCode": "AccountCode",
+    "NekoVerifiy-ExpiredTime": "ExpiredTime",
+    "CopiedToClipboard": "Copied to clipboard"
+}

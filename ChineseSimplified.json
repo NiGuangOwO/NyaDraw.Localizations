@@ -1,1 +1,20 @@
-{}
+{
+    "Language": "语言",
+    "NekoVerifiy": "猫猫验证",
+    "GeneralSettings": "常规设置",
+    "SupportDutys": "支持副本",
+    "Debug": "Debug",
+    "NekoVerifiy-Refresh": "刷新",
+    "NekoVerifiy-MachineCode": "机器识别凭证",
+    "NekoVerifiy-AccountCode": "账号识别凭证",
+    "NekoVerifiy-ExpiredTime": "过期时间",
+    "CopiedToClipboard": "已复制到剪贴板",
+    "GeneralSettings-AutoDraw": "全场景自动绘制",
+    "GeneralSettings-AutoDrawHelp": "小概率会出现绘制错误，已适配的副本不受此设置影响",
+    "GeneralSettings-OmenColorSaturation": "Omen颜色饱和度",
+    "Test": "测试",
+    "Search": "搜索",
+    "Author": "作者",
+    "Complete": "已完成",
+    "Uncomplete": "未完成"
+}
