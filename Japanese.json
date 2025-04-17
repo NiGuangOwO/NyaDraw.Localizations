@@ -1,1 +1,20 @@
-{}
+{
+    "Language": "言語",
+    "NekoVerifiy": "NekoVerifiy",
+    "GeneralSettings": "全般設定",
+    "SupportDutys": "支持副本",
+    "Debug": "Debug",
+    "NekoVerifiy-Refresh": "再読み込み",
+    "NekoVerifiy-MachineCode": "マシン識別証明書",
+    "NekoVerifiy-AccountCode": "アカウント識別証明書",
+    "NekoVerifiy-ExpiredTime": "有効期限",
+    "CopiedToClipboard": "クリップボードにコピーされました",
+    "GeneralSettings-AutoDrawings": "全场景自动绘制",
+    "GeneralSettings-AutoDrawingsHelp": "小概率会出现绘制错误，关闭此功能不会禁用已适配副本的绘制功能",
+    "GeneralSettings-OmenColorSaturation": "めざめたOmenの色彩度",
+    "Test": "テスト",
+    "Search": "検索",
+    "Author": "作者",
+    "Complete": "完了しました",
+    "Incomplete": "未完了"
+}
