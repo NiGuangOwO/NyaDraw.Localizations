@@ -10,7 +10,7 @@
     "NekoVerifiy-ExpiredTime": "Expired Time",
     "CopiedToClipboard": "Copied to clipboard",
     "GeneralSettings-AutoDrawings": "Auto Drawings",
-    "GeneralSettings-AutoDrawingsHelp": "小概率会出现绘制错误，关闭此功能不会禁用已适配副本的绘制功能",
+    "GeneralSettings-AutoDrawingsHelp": "There might be some errors in auto drawing, disable the function doesn't block the drawings in adapted duties",
     "GeneralSettings-OmenColorSaturation": "Omen Color Saturation",
     "Test": "Test",
     "Search": "Search",
