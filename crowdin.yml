@@ -1,3 +1,3 @@
 files:
   - source: ChineseSimplified.json
-    translation: '%language%.json'
+    translation: /%original_path%/%language%.json
