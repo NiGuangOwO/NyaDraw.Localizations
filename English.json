@@ -1,13 +1,16 @@
 {
   "Language": "Language",
-  "NekoVerifiy": "NekoVerifiy",
+  "NekoVerify": "猫猫验证",
   "GeneralSettings": "General Settings",
   "SupportDutys": "Support Dutys",
   "Debug": "Debug",
-  "NekoVerifiy-Refresh": "Refresh",
-  "NekoVerifiy-MachineCode": "MID",
-  "NekoVerifiy-AccountCode": "AID",
-  "NekoVerifiy-ExpiredTime": "Expired Time",
+  "NekoVerify-Refresh": "刷新",
+  "NekoVerify-MachineCode": "机器识别凭证",
+  "NekoVerify-AccountCode": "账号识别凭证",
+  "NekoVerify-ExpiredTime": "过期时间",
+  "NekoVerify-LiveError": "无法连接至验证服务",
+  "NekoVerify-VerifyError": "验证发生错误",
+  "NekoVerify-ExpireNotification": "凭证类型: {0}\n过期时间: {1}\n剩余时间: {2} 天",
   "CopiedToClipboard": "Copied to clipboard",
   "GeneralSettings-AutoDrawings": "Auto Drawings",
   "GeneralSettings-AutoDrawingsHelp": "There might be some errors in auto drawing, disable the function doesn't block the drawings in adapted duties",
@@ -17,6 +20,6 @@
   "Author": "Author",
   "Complete": "Completed",
   "Incomplete": "Incomplete",
-  "Dev": "开发",
-  "Dev-Warning": "以下仅供开发者调试开发用，请勿随意操作，可能导致游戏崩溃"
+  "Dev": "Dev",
+  "Dev-Warning": "The following is for development purposes only by debugging the developer, do not operate at will and may cause the game to crash"
 }
