@@ -4,6 +4,7 @@
   "GeneralSettings": "全般設定",
   "SupportDutys": "支持副本",
   "Debug": "Debug",
+  "NekoVerify-NeedLogin": "任意のゲームキャラクターにログインしてください",
   "NekoVerify-Refresh": "再読み込み",
   "NekoVerify-MachineCode": "マシン識別証明書",
   "NekoVerify-AccountCode": "アカウント識別証明書",
