@@ -4,6 +4,7 @@
   "GeneralSettings": "常规设置",
   "SupportDutys": "支持副本",
   "Debug": "Debug",
+  "NekoVerify-NeedLogin": "请先登录任意角色",
   "NekoVerify-Refresh": "刷新",
   "NekoVerify-MachineCode": "机器识别凭证",
   "NekoVerify-AccountCode": "账号识别凭证",
