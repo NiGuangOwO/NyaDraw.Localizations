@@ -4,6 +4,7 @@
   "GeneralSettings": "General Settings",
   "SupportDutys": "Support Dutys",
   "Debug": "Debug",
+  "NekoVerify-NeedLogin": "请先登录任意角色",
   "NekoVerify-Refresh": "Refresh",
   "NekoVerify-MachineCode": "MID",
   "NekoVerify-AccountCode": "AID",
