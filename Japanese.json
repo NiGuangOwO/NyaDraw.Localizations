@@ -3,7 +3,7 @@
   "Language": "言語",
   "NekoVerify": "NekoVerify",
   "GeneralSettings": "全般設定",
-  "SupportDutys": "支持副本",
+  "SupportDutys": "対応コンテンツ一覧",
   "Debug": "Debug",
   "NekoVerify-NeedLogin": "任意のゲームキャラクターにログインしてください",
   "NekoVerify-Refresh": "再読み込み",
@@ -23,5 +23,5 @@
   "Complete": "完了しました",
   "Incomplete": "未完了",
   "Dev": "開発",
-  "Dev-Warning": "以下仅供开发者调试开发用，请勿随意操作，可能导致游戏崩溃"
+  "Dev-Warning": "以下の項目は開発者によるデバッグおよび開発目的でのみ使用します。安易に操作するとゲームがクラッシュする恐れがあるため、絶対に触れないでください。"
 }
