@@ -14,8 +14,8 @@
   "NekoVerify-VerifyError": "バリデーション中にエラーが発生しました",
   "NekoVerify-ExpireNotification": "認証タイプ：{0}\n有効期限：{1}\n残り時間：{2} 日",
   "CopiedToClipboard": "クリップボードにコピーされました",
-  "GeneralSettings-AutoDrawings": "全场景自动绘制",
-  "GeneralSettings-AutoDrawingsHelp": "小概率会出现绘制错误，关闭此功能不会禁用已适配副本的绘制功能",
+  "GeneralSettings-AutoDrawings": "自動描写",
+  "GeneralSettings-AutoDrawingsHelp": "稀に描画エラーが発生することがありますがこの機能をオフにしても\n既に対応しているインスタンスの描画機能には影響ありません",
   "GeneralSettings-OmenColorSaturation": "めざめたOmenの色彩度",
   "Test": "テスト",
   "Search": "検索",
@@ -23,5 +23,5 @@
   "Complete": "完了しました",
   "Incomplete": "未完了",
   "Dev": "開発",
-  "Dev-Warning": "以下の項目は開発者によるデバッグおよび開発目的でのみ使用します。安易に操作するとゲームがクラッシュする恐れがあるため、絶対に触れないでください。"
+  "Dev-Warning": "以下の項目は開発者によるデバッグおよび開発目的でのみ使用します\n安易に操作するとゲームがクラッシュする恐れがあるため、絶対に触れないでください"
 }
