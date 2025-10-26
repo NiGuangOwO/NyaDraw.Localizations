@@ -23,5 +23,7 @@
   "Complete": "Completed",
   "Incomplete": "Incomplete",
   "Dev": "Dev",
-  "Dev-Warning": "The following is for development purposes only by debugging the developer, do not operate at will and may cause the game to crash"
+  "Dev-Warning": "The following is for development purposes only by debugging the developer, do not operate at will and may cause the game to crash",
+  "AutoDrawEnable": "启用自动绘制",
+  "AutoDrawDisable": "禁用自动绘制"
 }
