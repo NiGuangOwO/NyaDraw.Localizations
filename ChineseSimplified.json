@@ -23,5 +23,7 @@
   "Complete": "已完成",
   "Incomplete": "未完成",
   "Dev": "开发",
-  "Dev-Warning": "以下仅供开发者调试开发用，请勿随意操作，可能导致游戏崩溃"
+  "Dev-Warning": "以下仅供开发者调试开发用，请勿随意操作，可能导致游戏崩溃",
+  "AutoDrawEnable": "启用自动绘制",
+  "AutoDrawDisable": "禁用自动绘制"
 }
