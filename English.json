@@ -14,7 +14,7 @@
   "NekoVerify-VerifyError": "Authentication error",
   "NekoVerify-ExpireNotification": "Credential: {0}\nExpire Time: {1}\nRemaining Time Until Expire: {2} days",
   "CopiedToClipboard": "Copied to clipboard",
-  "GeneralSettings-AutoDrawings": "Auto Drawings",
+  "GeneralSettings-AutoDrawings": "Auto Drawing",
   "GeneralSettings-AutoDrawingsHelp": "There might be some errors in auto drawing, disable the function doesn't block the drawings in adapted duties",
   "GeneralSettings-OmenColorSaturation": "Omen Color Saturation",
   "Test": "Test",
@@ -24,6 +24,6 @@
   "Incomplete": "Incomplete",
   "Dev": "Dev",
   "Dev-Warning": "The following is for development purposes only by debugging the developer, do not operate at will and may cause the game to crash",
-  "AutoDrawEnable": "启用自动绘制",
-  "AutoDrawDisable": "禁用自动绘制"
+  "AutoDrawEnable": "Enable Auto Drawings",
+  "AutoDrawDisable": "Disable Auto Drawings"
 }
