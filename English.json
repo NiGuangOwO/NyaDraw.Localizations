@@ -13,6 +13,7 @@
   "NekoVerify-LiveError": "Unable to connect to the NekoVerify",
   "NekoVerify-VerifyError": "Authentication error",
   "NekoVerify-ExpireNotification": "Credential: {0}\nExpire Time: {1}\nRemaining Time Until Expire: {2} days",
+  "NekoVerify-TempCode": "Temp Activation Code",
   "CopiedToClipboard": "Copied to clipboard",
   "GeneralSettings-AutoDrawings": "Auto Drawing",
   "GeneralSettings-AutoDrawingsHelp": "There might be some errors in auto drawing, disable the function doesn't block the drawings in adapted duties",

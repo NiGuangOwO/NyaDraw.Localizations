@@ -13,6 +13,7 @@
   "NekoVerify-LiveError": "確認サービスに接続できません",
   "NekoVerify-VerifyError": "バリデーション中にエラーが発生しました",
   "NekoVerify-ExpireNotification": "認証タイプ：{0}\n有効期限：{1}\n残り時間：{2} 日",
+  "NekoVerify-TempCode": "臨時アクティベーションコード",
   "CopiedToClipboard": "クリップボードにコピーされました",
   "GeneralSettings-AutoDrawings": "自動描写",
   "GeneralSettings-AutoDrawingsHelp": "稀に描画エラーが発生することがありますがこの機能をオフにしても\n既に対応しているインスタンスの描画機能には影響ありません",
