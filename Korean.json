@@ -13,6 +13,7 @@
   "NekoVerify-LiveError": "NekoVerify에 연결할 수 없습니다",
   "NekoVerify-VerifyError": "인증 오류",
   "NekoVerify-ExpireNotification": "자격 증명: {0}\n만료 시간: {1}\n만료까지 남은 시간: {2}일",
+  "NekoVerify-TempCode": "임시 활성화 코드",
   "CopiedToClipboard": "클립보드에 복사됨",
   "GeneralSettings-AutoDrawings": "자동 도면",
   "GeneralSettings-AutoDrawingsHelp": "자동 도면 기능에 일부 오류가 있을 수 있으며, 기능을 비활성화해도 적용된 업무 내의 그림은 차단되지 않습니다",
