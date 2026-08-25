@@ -26,5 +26,7 @@
   "Dev": "개발자",
   "Dev-Warning": "아래 내용은 개발자용으로만 사용되며, 임의로 조작하지 마세요. 게임이 충돌할 수 있습니다",
   "AutoDrawEnable": "자동 도면 활성화",
-  "AutoDrawDisable": "자동 도면 비활성화"
+  "AutoDrawDisable": "자동 도면 비활성화",
+  "BossMod-IpcSubscribed": "BossMod IPC 구독에 성공했습니다",
+  "BossMod-IpcNotSubscribed": "BossMod IPC에 구독하지 않았습니다. BossMod Reborn이 설치되고 활성화되었는지 확인해 주세요"
 }

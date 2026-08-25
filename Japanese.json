@@ -26,5 +26,7 @@
   "Dev": "開発",
   "Dev-Warning": "以下の項目は開発者によるデバッグおよび開発目的でのみ使用します\n安易に操作するとゲームがクラッシュする恐れがあるため、絶対に触れないでください",
   "AutoDrawEnable": "自動描写を有効にする",
-  "AutoDrawDisable": "自動描写を無効にする"
+  "AutoDrawDisable": "自動描写を無効にする",
+  "BossMod-IpcSubscribed": "BossMod IPCの購読に成功しました",
+  "BossMod-IpcNotSubscribed": "BossMod IPCに未購読です。BossMod Rebornがインストールされ有効になっているか確認してください"
 }

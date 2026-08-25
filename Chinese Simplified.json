@@ -26,5 +26,7 @@
   "Dev": "开发",
   "Dev-Warning": "以下仅供开发者调试开发用，请勿随意操作，可能导致游戏崩溃",
   "AutoDrawEnable": "启用自动绘制",
-  "AutoDrawDisable": "禁用自动绘制"
+  "AutoDrawDisable": "禁用自动绘制",
+  "BossMod-IpcSubscribed": "已成功订阅 BossMod IPC",
+  "BossMod-IpcNotSubscribed": "未订阅 BossMod IPC，请确认已安装并启用 BossMod Reborn"
 }

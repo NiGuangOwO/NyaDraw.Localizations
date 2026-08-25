@@ -26,5 +26,7 @@
   "Dev": "Dev",
   "Dev-Warning": "The following is for development purposes only by debugging the developer, do not operate at will and may cause the game to crash",
   "AutoDrawEnable": "Enable Auto Drawings",
-  "AutoDrawDisable": "Disable Auto Drawings"
+  "AutoDrawDisable": "Disable Auto Drawings",
+  "BossMod-IpcSubscribed": "Successfully subscribed to BossMod IPC",
+  "BossMod-IpcNotSubscribed": "Not subscribed to BossMod IPC, make sure BossMod Reborn is installed and enabled"
 }
