@@ -4,7 +4,6 @@
   "NekoVerify": "猫猫验证",
   "GeneralSettings": "常规设置",
   "SupportDutys": "支持副本",
-  "Debug": "调试",
   "NekoVerify-NeedLogin": "请先登录任意角色",
   "NekoVerify-Refresh": "刷新",
   "NekoVerify-MachineCode": "机器识别凭证",
@@ -21,12 +20,13 @@
   "Test": "测试",
   "Search": "搜索",
   "Author": "作者",
-  "Complete": "已完成",
-  "Incomplete": "未完成",
   "Dev": "开发",
   "Dev-Warning": "以下仅供开发者调试开发用，请勿随意操作，可能导致游戏崩溃",
   "AutoDrawEnable": "启用自动绘制",
   "AutoDrawDisable": "禁用自动绘制",
-  "BossMod-IpcSubscribed": "已成功订阅 BossMod IPC",
-  "BossMod-IpcNotSubscribed": "未订阅 BossMod IPC，请确认已安装并启用 BossMod Reborn"
+  "GeneralSettings-BossModAutoDraw": "使用 BossMod 数据自动绘制",
+  "GeneralSettings-BossModBridgeConnected": "BossMod 数据源已连接（{0}）",
+  "GeneralSettings-BossModBridgeDisconnected": "BossMod 数据源未连接，自动绘制无法工作",
+  "GeneralSettings-BossModBridgeMode": "BossMod 桥接方案",
+  "GeneralSettings-BridgeModeReflect": "反射"
 }
