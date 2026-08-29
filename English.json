@@ -4,7 +4,6 @@
   "NekoVerify": "NekoVerify",
   "GeneralSettings": "General Settings",
   "SupportDutys": "Support Dutys",
-  "Debug": "Debug",
   "NekoVerify-NeedLogin": "Please log in to any character first",
   "NekoVerify-Refresh": "Refresh",
   "NekoVerify-MachineCode": "MID",
@@ -21,12 +20,13 @@
   "Test": "Test",
   "Search": "Search",
   "Author": "Author",
-  "Complete": "Completed",
-  "Incomplete": "Incomplete",
   "Dev": "Dev",
   "Dev-Warning": "The following is for development purposes only by debugging the developer, do not operate at will and may cause the game to crash",
   "AutoDrawEnable": "Enable Auto Drawings",
   "AutoDrawDisable": "Disable Auto Drawings",
-  "BossMod-IpcSubscribed": "Successfully subscribed to BossMod IPC",
-  "BossMod-IpcNotSubscribed": "Not subscribed to BossMod IPC, make sure BossMod Reborn is installed and enabled"
+  "GeneralSettings-BossModAutoDraw": "Auto Draw using BossMod data",
+  "GeneralSettings-BossModBridgeConnected": "BossMod data source connected ({0})",
+  "GeneralSettings-BossModBridgeDisconnected": "BossMod data source not connected, auto drawing won't work",
+  "GeneralSettings-BossModBridgeMode": "BossMod bridge mode",
+  "GeneralSettings-BridgeModeReflect": "Reflect"
 }
