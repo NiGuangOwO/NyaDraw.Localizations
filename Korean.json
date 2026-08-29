@@ -4,7 +4,6 @@
   "NekoVerify": "NekoVerify",
   "GeneralSettings": "일반 설정",
   "SupportDutys": "지원 임무",
-  "Debug": "디버그",
   "NekoVerify-NeedLogin": "먼저 아무 캐릭터에 접속해주세요",
   "NekoVerify-Refresh": "새로고침",
   "NekoVerify-MachineCode": "PC 식별 인증",
@@ -21,12 +20,13 @@
   "Test": "테스트",
   "Search": "검색",
   "Author": "제작자",
-  "Complete": "완료됨",
-  "Incomplete": "완료되지 않음",
   "Dev": "개발자",
   "Dev-Warning": "아래 내용은 개발자용으로만 사용되며, 임의로 조작하지 마세요. 게임이 충돌할 수 있습니다",
   "AutoDrawEnable": "자동 도면 활성화",
   "AutoDrawDisable": "자동 도면 비활성화",
-  "BossMod-IpcSubscribed": "BossMod IPC 구독에 성공했습니다",
-  "BossMod-IpcNotSubscribed": "BossMod IPC에 구독하지 않았습니다. BossMod Reborn이 설치되고 활성화되었는지 확인해 주세요"
+  "GeneralSettings-BossModAutoDraw": "BossMod 데이터로 자동 도면",
+  "GeneralSettings-BossModBridgeConnected": "BossMod 데이터 소스 연결됨（{0}）",
+  "GeneralSettings-BossModBridgeDisconnected": "BossMod 데이터 소스가 연결되지 않아 자동 도면이 작동하지 않습니다",
+  "GeneralSettings-BossModBridgeMode": "BossMod 브리지 방식",
+  "GeneralSettings-BridgeModeReflect": "리플렉트"
 }
