@@ -28,5 +28,9 @@
   "GeneralSettings-BossModBridgeConnected": "BossMod data source connected ({0})",
   "GeneralSettings-BossModBridgeDisconnected": "BossMod data source not connected, auto drawing won't work",
   "GeneralSettings-BossModBridgeMode": "BossMod bridge mode",
-  "GeneralSettings-BridgeModeReflect": "Reflect"
+  "GeneralSettings-BridgeModeReflect": "Reflect",
+  "Dtr-DrawModule": "Module Drawing",
+  "Dtr-BossMod": "BossMod Data",
+  "Dtr-AutoDraw": "Auto Drawing",
+  "Dtr-None": "No Drawing"
 }

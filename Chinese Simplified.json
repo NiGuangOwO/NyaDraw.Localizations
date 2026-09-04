@@ -28,5 +28,9 @@
   "GeneralSettings-BossModBridgeConnected": "BossMod 数据源已连接（{0}）",
   "GeneralSettings-BossModBridgeDisconnected": "BossMod 数据源未连接，自动绘制无法工作",
   "GeneralSettings-BossModBridgeMode": "BossMod 桥接方案",
-  "GeneralSettings-BridgeModeReflect": "反射"
+  "GeneralSettings-BridgeModeReflect": "反射",
+  "Dtr-DrawModule": "模块绘制",
+  "Dtr-BossMod": "BossMod数据",
+  "Dtr-AutoDraw": "自动绘制",
+  "Dtr-None": "无绘制"
 }

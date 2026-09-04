@@ -28,5 +28,9 @@
   "GeneralSettings-BossModBridgeConnected": "BossMod 데이터 소스 연결됨（{0}）",
   "GeneralSettings-BossModBridgeDisconnected": "BossMod 데이터 소스가 연결되지 않아 자동 도면이 작동하지 않습니다",
   "GeneralSettings-BossModBridgeMode": "BossMod 브리지 방식",
-  "GeneralSettings-BridgeModeReflect": "리플렉트"
+  "GeneralSettings-BridgeModeReflect": "리플렉트",
+  "Dtr-DrawModule": "모듈 도면",
+  "Dtr-BossMod": "BossMod 데이터",
+  "Dtr-AutoDraw": "자동 도면",
+  "Dtr-None": "도면 없음"
 }

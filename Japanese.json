@@ -28,5 +28,9 @@
   "GeneralSettings-BossModBridgeConnected": "BossMod データソース接続済み（{0}）",
   "GeneralSettings-BossModBridgeDisconnected": "BossMod データソース未接続のため、自動描画は動作しません",
   "GeneralSettings-BossModBridgeMode": "BossMod ブリッジ方式",
-  "GeneralSettings-BridgeModeReflect": "リフレクト"
+  "GeneralSettings-BridgeModeReflect": "リフレクト",
+  "Dtr-DrawModule": "モジュール描画",
+  "Dtr-BossMod": "BossMod データ",
+  "Dtr-AutoDraw": "自動描画",
+  "Dtr-None": "描画なし"
 }
