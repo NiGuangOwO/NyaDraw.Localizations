@@ -17,6 +17,7 @@
   "GeneralSettings-AutoDrawings": "Auto Drawing",
   "GeneralSettings-AutoDrawingsHelp": "There might be some errors in auto drawing, disable the function doesn't block the drawings in adapted duties",
   "GeneralSettings-OmenColorSaturation": "Omen Color Saturation",
+  "GeneralSettings-ShowDtr": "Show DTR status bar entry",
   "Test": "Test",
   "Search": "Search",
   "Author": "Author",

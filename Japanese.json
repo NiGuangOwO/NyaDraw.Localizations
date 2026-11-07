@@ -17,6 +17,7 @@
   "GeneralSettings-AutoDrawings": "自動描写",
   "GeneralSettings-AutoDrawingsHelp": "稀に描画エラーが発生することがありますがこの機能をオフにしても\n既に対応しているインスタンスの描画機能には影響ありません",
   "GeneralSettings-OmenColorSaturation": "めざめたOmenの色彩度",
+  "GeneralSettings-ShowDtr": "DTR ステータス表示",
   "Test": "テスト",
   "Search": "検索",
   "Author": "作者",

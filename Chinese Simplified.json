@@ -17,6 +17,7 @@
   "GeneralSettings-AutoDrawings": "全场景自动绘制",
   "GeneralSettings-AutoDrawingsHelp": "小概率会出现绘制错误，关闭此功能不会禁用已适配副本的绘制功能",
   "GeneralSettings-OmenColorSaturation": "Omen颜色饱和度",
+  "GeneralSettings-ShowDtr": "显示 DTR 状态栏信息",
   "Test": "测试",
   "Search": "搜索",
   "Author": "作者",
